@@ -1,4 +1,5 @@
-# 💫 About Me:<br>Hey there! I am happy that you are here.<br><br>I am passionate data enthusiast who loves turning raw data into <br>meaningful insights. I enjoy exploring new technologies, building<br> projects, experimenting with machine learning models, and figuring <br>out creative solutions to problems.<br>When I’m not coding, you might<br> find me reading research papers, learning about deep learning and <br>generative AI or tinkering with side projects that bring ideas to life.
+# 💫 About Me:
+Hey there! I am happy that you are here.<br>I am passionate data enthusiast who loves turning raw data into <br>meaningful insights. I enjoy exploring new technologies, building<br> projects, experimenting with machine learning models, and figuring out creative solutions to problems. When I’m not coding, you might find me reading research papers, learning about deep learning and <br>generative AI or tinkering with side projects that bring ideas to life.
 
 
 ## 🌐 Socials:
