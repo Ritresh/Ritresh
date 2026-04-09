@@ -27,9 +27,7 @@ I am a passionate data enthusiast who loves turning raw data into meaningful ins
 - [![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ritresh529)
 
 ### HackerRank Badges
-[![30 Days of Code](https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg)](https://www.hackerrank.com/profile/ritresh565)
-[![Python](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)](https://www.hackerrank.com/profile/ritresh565)
-[![SQL](https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg)](https://www.hackerrank.com/profile/ritresh565)
+[![HackerRank Badges](https://hackerrank-badges.vercel.app/ritresh565)](https://www.hackerrank.com/profile/ritresh565)
 ---
 
 ## 📊 GitHub Stats
