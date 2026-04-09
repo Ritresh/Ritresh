@@ -28,6 +28,7 @@ I am a passionate data enthusiast who loves turning raw data into meaningful ins
 
 ### HackerRank Badges
 [![HackerRank Badges](https://hackerrank-badges.vercel.app/ritresh565)](https://www.hackerrank.com/profile/ritresh565)
+
 ---
 
 ## 📊 GitHub Stats
