@@ -28,9 +28,9 @@ I am a passionate data enthusiast who loves turning raw data into meaningful ins
 - [Repo of solved problems](https://github.com/Ritresh/hackerrank-solutions)  
 
 ### HackerRank Badges
-[![30 Days of Code Badge]([https://www.hackerrank.com/badges/30days.png](https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg))](https://www.hackerrank.com/profile/ritresh529)
-[![SQL Badge]([https://www.hackerrank.com/badges/sql.png](https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg))](https://www.hackerrank.com/profile/ritresh565)
-[![Python Badge]([https://www.hackerrank.com/badges/python.png](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg))](https://www.hackerrank.com/profile/ritresh529)
+[![30 Days of Code Badge](https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg)](https://www.hackerrank.com/profile/ritresh529)
+[![SQL Badge](https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg)](https://www.hackerrank.com/profile/ritresh529)
+[![Python Badge](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)](https://www.hackerrank.com/profile/ritresh529)
 
 ---
 
