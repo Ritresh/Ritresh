@@ -7,7 +7,7 @@ I am a passionate data enthusiast who loves turning raw data into meaningful ins
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritresh-kumar-6b4057392/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritresh273@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ritresh565)
+[![HackerRank](https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ritresh529)
 
 ---
 
@@ -28,9 +28,9 @@ I am a passionate data enthusiast who loves turning raw data into meaningful ins
 - [Repo of solved problems](https://github.com/Ritresh/hackerrank-solutions)  
 
 ### HackerRank Badges
-[![30 Days of Code Badge](https://www.hackerrank.com/badges/30days.png)](https://www.hackerrank.com/profile/ritresh565)
-[![SQL Badge](https://www.hackerrank.com/badges/sql.png)](https://www.hackerrank.com/profile/ritresh565)
-[![Python Badge](https://www.hackerrank.com/badges/python.png)](https://www.hackerrank.com/profile/ritresh565)
+[![30 Days of Code Badge]([https://www.hackerrank.com/badges/30days.png](https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg))](https://www.hackerrank.com/profile/ritresh529)
+[![SQL Badge]([https://www.hackerrank.com/badges/sql.png](https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg))](https://www.hackerrank.com/profile/ritresh565)
+[![Python Badge]([https://www.hackerrank.com/badges/python.png](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg))](https://www.hackerrank.com/profile/ritresh529)
 
 ---
 
