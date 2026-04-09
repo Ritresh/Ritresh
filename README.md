@@ -24,7 +24,8 @@ I am a passionate data enthusiast who loves turning raw data into meaningful ins
 ---
 
 ## 📂 HackerRank / Coding Challenges
-- [![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ritresh529)
+- My [HackerRank Profile](https://www.hackerrank.com/profile/ritresh565)
+- [Repo of solved problems](https://github.com/Ritresh/hackerrank-solutions)  
 
 ### HackerRank Badges
 [![HackerRank Badges](https://hackerrank-badges.vercel.app/ritresh565)](https://www.hackerrank.com/profile/ritresh565)
